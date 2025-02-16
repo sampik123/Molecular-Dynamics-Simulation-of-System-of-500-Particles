@@ -1,1 +1,1 @@
-# Molecular-Dynamica-Simulation-of-System-of-500-Particles
+# Molecular-Dynamics-Simulation-of-System-of-500-Particles
